@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on a project which helps students choose the school<br>👯 I’m looking to collaborate on the interesting project created on Angular and NodeJS<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roman-kuchera-0b50331a8/) 
